@@ -1,5 +1,5 @@
-# bootstrap-boilerplate
-2022 April 11 challenge of the day
+# Title
+subtitle
 
 ## About
-Learning to build mobile friendly websites. This is a continuation of learning to build websites as a beginner. Repositories and branches become increasingly familiar. 
+the what and why et cetera
